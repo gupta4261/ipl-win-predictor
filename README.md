@@ -4,7 +4,7 @@ A machine learning web application that predicts
 win probability for IPL cricket matches in real time, 
 trained on 15 years of ball-by-ball IPL data (2008-2019).
 
-🚀 **[Live Demo →](YOUR_STREAMLIT_URL_HERE)**
+🚀 **[Live Demo →](https://ipl-win-predictor-4261.streamlit.app/)**
 
 ---
 
