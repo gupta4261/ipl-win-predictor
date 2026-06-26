@@ -1,0 +1,22 @@
+# Large data files - too big for GitHub
+data/matches.csv
+data/deliveries.csv
+data/cleaned_innings2.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.jupyter/
